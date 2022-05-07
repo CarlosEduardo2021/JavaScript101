@@ -1,0 +1,1 @@
+log(nums.reduce2(soma, 21))
